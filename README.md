@@ -31,7 +31,7 @@ Por exemplo, considerando movimento de uma linha para a direita ou esquerda:
 | AAABB | --BBB | C---- |
 | BBAAA | ----C | BBB-- |
 
-Esses são os movimentos feitos pelo jogo 243. No nosso caso, os 2 últimos movimentos podem realizar as 2 combinações nas 2 direções, resultando em "C".
+Esses são os movimentos feitos pelo jogo 243. No caso do efe, os 2 últimos movimentos podem realizar as 2 combinações nas 2 direções, resultando em "C".
 
 Cada letra que se mexe vale um ponto.
 Cada combinação vale a soma das 3 letras combinadas (cada 'A' vale 10, combinam num 'B' vale 30; combinando 3 'B' em um 'C' vale 90 etc).
