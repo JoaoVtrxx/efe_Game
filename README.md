@@ -45,6 +45,10 @@ O jogo é baseado no [243](https://hgentry.github.io/81/).
 
 # Executar
 
-Para executar o jogo é necessária a biblioteca allegro estar instalada. Após isso, baixe a pasta com os arquivos e execute no terminal com o comando:
+Para executar o jogo é necessária a biblioteca allegro estar instalada. Após isso, baixe a pasta com os arquivos e compile no terminal com o comando:
 
 **gcc -Wall -o jogo efe.c tela.c -lallegro_font -lallegro_color -lallegro_ttf -lallegro_primitives -lallegro**
+
+Após, execute com:
+
+**./jogo**
