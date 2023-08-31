@@ -43,6 +43,13 @@ O desenho do tabuleiro é colorido, com uma combinação de cor diferente para c
 
 O jogo é baseado no [243](https://hgentry.github.io/81/).
 
+# Galeria
+
+<img src="https://github.com/JoaoVtrxx/efe_Game/assets/106991499/824f0f9d-78b9-4f8e-ad2f-e49e93d3e461" width="400" height="200" />
+<img src="https://github.com/JoaoVtrxx/efe_Game/assets/106991499/d2537866-0c16-4aa9-8dcf-636d72ed40f0" width="400" height="200" />
+<img src="https://github.com/JoaoVtrxx/efe_Game/assets/106991499/4ffef47e-f745-45df-8963-6236afc7eb34" width="400" height="200" />
+<img src="https://github.com/JoaoVtrxx/efe_Game/assets/106991499/da6ba6de-3720-4c09-9770-fec03dfd17b4" width="400" height="200" />
+
 # Executar
 
 Para executar o jogo é necessária a biblioteca allegro estar instalada. Após isso, baixe a pasta com os arquivos e compile no terminal com o comando:
